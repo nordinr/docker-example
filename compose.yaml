@@ -7,5 +7,5 @@ services:
       - 791:80
     restart: always
     volumes:
-      - ./html:/var/www/html/public
+      - ./html:/var/www/html
    
