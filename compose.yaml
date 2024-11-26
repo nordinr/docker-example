@@ -8,5 +8,4 @@ services:
     restart: always
     volumes:
       - ./html:/var/www/html
-    port:
-      - 9999:80
+   
